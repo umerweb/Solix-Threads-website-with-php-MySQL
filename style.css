@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+
+.hero-text{
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+
+.row{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-items: center;
+    justify-content: space-around;
+    
+    
+    
+}
+.media.mt-4.mb-4.bg-light{
+    padding: 20px;
+    border-radius: 10px;
+}
+.list-unstyled{
+    padding: 20px !important;
+    border-radius: 10px;
+
+}
